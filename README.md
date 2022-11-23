@@ -9,7 +9,7 @@
 Hi! My name is Carlos 'Razor' Vecina, junior developer and content creator on @Twitch.
 
 - 🔭 I’m currently working on www.loshijosdelaisla.com and other projects.
-- 🌱 I’m currently learning Laravel, JavaScript, ReactJS and more
+- 🌱 I’m currently learning Laravel, JavaScript, Vue3 and more
 - 💬 Ask me about Java, HTML, CSS, PUG, SASS, PHP, SQL...
 
 ## Used
