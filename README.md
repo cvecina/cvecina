@@ -6,16 +6,16 @@
 
 ### Hello there! 👋
 
-Hi! My name is Carlos 'Razor' Vecina, junior developer, CEO of WebnRepair and content creator on @Twitch.
+Hi! My name is Carlos 'Razor' Vecina, junior web developer, CEO of WebnRepair and content creator on @Twitch.
 
 - 🔭 I’m currently working on webnrepair.com and other projects.
-- 🌱 I’m currently learning Laravel, JavaScript, Vue3 and more
-- 💬 Ask me about Java, HTML, CSS, PUG, SASS, PHP, SQL...
+- 🌱 I’m currently learning Laravel, React and more
+- 💬 Ask me about Vue 3, HTML, CSS, SASS, PHP, SQL, GRAPHQL...
 
 ## Used
 
    <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/vue.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
