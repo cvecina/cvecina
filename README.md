@@ -15,7 +15,6 @@ Hi! My name is Carlos 'Razor' Vecina, junior web developer, CEO of WebnRepair an
 ## Used
 
    <p align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:400/1*zyNSb0UXhP8TfxYbj-GNWg.png" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
